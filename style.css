@@ -1,0 +1,29 @@
+a{
+    color:#e5c504;
+    font-size: 20pt;
+    text-decoration: none;
+}
+body{
+    font-family: 'Permanent Marker', cursive;
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-image: url("download.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 100px;
+}
+nav{
+    background-color: #6d6079;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+}
